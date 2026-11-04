@@ -1,0 +1,59 @@
+{
+  "id": "brand-3",
+  "name": "The Bean & Bar",
+  "category": "Coffee Shop & Cocktail Bar",
+  "tagline": "Where Coffee Meets Cocktails.",
+  "cover": "assets/images/brand-3/cover.svg",
+  "banner": "assets/images/brand-3/photo-1.svg",
+  "description": [
+    "The Bean & Bar is a seasonal coffee shop and bar that brings together great coffee, creative drinks and a lively social atmosphere. Our concept moves naturally from specialty coffee and refreshing daytime beverages to cocktails, mocktails and evening meetups.",
+    "Rooted in Ehden, North Lebanon, with a seasonal presence in Zgharta at Voda Pool, The Bean & Bar is built around summer gatherings, relaxed moments and memorable events. Our drink selection includes coffee, signature mocktails, cocktails and refreshments, with occasional limited food offerings at events."
+  ],
+  "highlights": [
+    {
+      "title": "Coffee & Refreshments",
+      "text": "Coffee, chilled beverages and refreshing drinks for warm days and easygoing meetups."
+    },
+    {
+      "title": "Cocktails & Mocktails",
+      "text": "Colorful signature creations, including fruit-based alcohol-free options and mixed drinks."
+    },
+    {
+      "title": "Seasonal Atmosphere & Events",
+      "text": "Summer openings in Ehden and Zgharta, community festivals and lively social occasions."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/brand-3/photo-1.svg",
+      "caption": "Coffee moments at The Bean & Bar"
+    },
+    {
+      "src": "assets/images/brand-3/photo-2.svg",
+      "caption": "Signature cocktails and mixed drinks"
+    },
+    {
+      "src": "assets/images/brand-3/photo-3.svg",
+      "caption": "Fresh and colorful mocktails"
+    },
+    {
+      "src": "assets/images/brand-3/photo-4.svg",
+      "caption": "Summer refreshments and outdoor vibes"
+    },
+    {
+      "src": "assets/images/brand-3/photo-5.svg",
+      "caption": "The Bean & Bar in Ehden"
+    },
+    {
+      "src": "assets/images/brand-3/photo-6.svg",
+      "caption": "Festivals, events and seasonal gatherings"
+    }
+  ],
+  "reviews": [],
+  "contact": {
+    "phone": "",
+    "address": "Ehden (Bkoufa) & Zgharta (Voda Pool), North Lebanon — seasonal",
+    "hours": "",
+    "website": ""
+  }
+}

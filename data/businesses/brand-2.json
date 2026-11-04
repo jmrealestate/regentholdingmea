@@ -1,0 +1,59 @@
+{
+  "id": "brand-2",
+  "name": "Bon Appétit",
+  "category": "Frozen Foods & Catering",
+  "tagline": "Quality You Can Taste.",
+  "cover": "assets/images/brand-2/cover.svg",
+  "banner": "assets/images/brand-2/photo-1.svg",
+  "description": [
+    "Bon Appétit is a Zgharta-based frozen food and catering business with over a decade of food-sector experience. We prepare convenient, flavorful products for home kitchens, family gatherings, celebrations and special events, with delivery available across Lebanon.",
+    "Our selection includes ready-to-cook frozen appetizers and traditional specialties sold by the dozen or kilogram, alongside cooked and ready-to-serve trays and tailored catering. We also provide live food stations for events. The frozen-food range previously offered through Matbakh Ehden has joined Bon Appétit, bringing our products together under one trusted name."
+  ],
+  "highlights": [
+    {
+      "title": "Frozen Specialties",
+      "text": "Kebbeh, sambousik, rakakat, mini pizzas, spring rolls and other freezer-friendly favorites."
+    },
+    {
+      "title": "Catering & Live Stations",
+      "text": "Event catering, party bites, buffet selections and freshly served food experiences."
+    },
+    {
+      "title": "Ready-to-Serve Trays",
+      "text": "Prepared dishes and appetizers for celebrations, entertaining and convenient meals."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/brand-2/photo-1.svg",
+      "caption": "Assorted frozen appetizers and finger food"
+    },
+    {
+      "src": "assets/images/brand-2/photo-2.svg",
+      "caption": "Traditional kebbeh specialties"
+    },
+    {
+      "src": "assets/images/brand-2/photo-3.svg",
+      "caption": "Rakakat, sambousik and party favorites"
+    },
+    {
+      "src": "assets/images/brand-2/photo-4.svg",
+      "caption": "Mini pizzas and bite-sized selections"
+    },
+    {
+      "src": "assets/images/brand-2/photo-5.svg",
+      "caption": "Catering spreads and ready-to-serve trays"
+    },
+    {
+      "src": "assets/images/brand-2/photo-6.svg",
+      "caption": "Live catering and event food stations"
+    }
+  ],
+  "reviews": [],
+  "contact": {
+    "phone": "",
+    "address": "Zgharta, North Lebanon — delivery across Lebanon",
+    "hours": "",
+    "website": ""
+  }
+}

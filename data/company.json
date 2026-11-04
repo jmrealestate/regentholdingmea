@@ -1,0 +1,53 @@
+{
+  "name": "Regent Holding MEA",
+  "logoText": "REGENT",
+  "hero": {
+    "image": "assets/images/hero/hero.svg",
+    "title": "Building Brands That Shape the Region",
+    "subtitle": "Regent Holding MEA brings five distinctive businesses together under one name, one standard of excellence.",
+    "buttonText": "Discover Our Brands"
+  },
+  "businessesSection": {
+    "title": "Our Businesses",
+    "subtitle": "Five brands. One vision. Click any brand to explore."
+  },
+  "businesses": ["brand-1", "brand-2", "brand-3", "brand-4", "brand-5"],
+  "about": {
+    "title": "About Regent Holding MEA",
+    "text": [
+      "Replace this text with your company story. Regent Holding MEA is a diversified group operating across the Middle East and Africa.",
+      "Describe your mission, values and what makes the group different."
+    ],
+    "stats": [
+      { "value": "5", "label": "Brands" },
+      { "value": "20+", "label": "Years of experience" },
+      { "value": "500+", "label": "Team members" },
+      { "value": "10", "label": "Countries" }
+    ]
+  },
+  "reviews": {
+    "title": "What People Say",
+    "items": [
+      { "name": "Customer Name", "role": "Client", "rating": 5, "text": "Replace with a real review. Outstanding service from start to finish.", "business": "Brand One" },
+      { "name": "Customer Name", "role": "Client", "rating": 5, "text": "Replace with a real review. Professional team and great results.", "business": "Brand Two" },
+      { "name": "Customer Name", "role": "Partner", "rating": 4, "text": "Replace with a real review. A reliable partner we trust.", "business": "Brand Three" }
+    ]
+  },
+  "location": {
+    "title": "Find Us",
+    "address": "Your Street, Your City, Country",
+    "mapEmbed": "https://www.google.com/maps?q=Dubai&output=embed",
+    "mapLink": "https://www.google.com/maps?q=Dubai"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "+000 000 000 000",
+    "hours": "Sun - Thu: 9:00 - 18:00",
+    "whatsapp": "",
+    "social": {
+      "Instagram": "#",
+      "LinkedIn": "#",
+      "Facebook": "#"
+    }
+  }
+}

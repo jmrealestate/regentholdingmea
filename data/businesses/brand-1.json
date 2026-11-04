@@ -1,0 +1,59 @@
+{
+  "id": "brand-1",
+  "name": "Delite Restaurant",
+  "category": "Restaurant & Food Delivery",
+  "tagline": "More than a meal, it’s a Delite.",
+  "cover": "assets/images/brand-1/cover.svg",
+  "banner": "assets/images/brand-1/photo-1.svg",
+  "description": [
+    "Delite Restaurant brings international favorites and Lebanese comfort food together in Ehden, North Lebanon. From freshly prepared burgers, sandwiches, platters and appetizers to traditional Lebanese dishes, our menu is made for everyday cravings, gatherings and great meals.",
+    "Our plat du jour (daily plate), developed following the integration of Matbakh Ehden, brings home-style meals to the table. Customers can choose the main dish on its own or complete their meal with salads, appetizers and dessert. Delite also develops healthy meal options and convenient food experiences, with a delivery-only cloud kitchen concept in Zgharta."
+  ],
+  "highlights": [
+    {
+      "title": "International Favorites",
+      "text": "Burgers, sandwiches, platters, salads and appetizers prepared for satisfying everyday meals."
+    },
+    {
+      "title": "Lebanese Cuisine & Plat du Jour",
+      "text": "Traditional Lebanese dishes and a changing daily plate, with optional sides and dessert."
+    },
+    {
+      "title": "Convenient Meal Options",
+      "text": "Dine-in in Ehden, meal ordering and a delivery-focused concept for Zgharta."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/brand-1/photo-1.svg",
+      "caption": "Freshly prepared international dishes"
+    },
+    {
+      "src": "assets/images/brand-1/photo-2.svg",
+      "caption": "Signature burgers and sandwiches"
+    },
+    {
+      "src": "assets/images/brand-1/photo-3.svg",
+      "caption": "Platters, salads and appetizers"
+    },
+    {
+      "src": "assets/images/brand-1/photo-4.svg",
+      "caption": "Lebanese dishes and home-style flavors"
+    },
+    {
+      "src": "assets/images/brand-1/photo-5.svg",
+      "caption": "The daily plate: plat du jour"
+    },
+    {
+      "src": "assets/images/brand-1/photo-6.svg",
+      "caption": "Delite food, hospitality and events"
+    }
+  ],
+  "reviews": [],
+  "contact": {
+    "phone": "",
+    "address": "Ehden, North Lebanon",
+    "hours": "",
+    "website": "https://deliterestaurant.regentholdingmea.com/"
+  }
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Regent Holding MEA</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="index.html" id="logo" class="logo"></a>
+    <button class="nav-toggle" aria-label="Menu">☰</button>
+    <nav class="nav">
+      <a href="#brands">Brands</a>
+      <a href="#about">About</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#location">Location</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="hero" class="hero">
+    <div class="hero-text">
+      <h1></h1>
+      <p></p>
+      <a class="btn" href="#brands"></a>
+    </div>
+    <a class="scroll-hint" href="#brands" aria-label="Scroll down">⌄</a>
+  </section>
+
+  <section id="brands" class="section">
+    <div class="head"><h2 id="brands-title"></h2><p id="brands-sub"></p></div>
+    <div id="brand-grid" class="brand-grid"></div>
+  </section>
+
+  <section id="about" class="section alt">
+    <div class="wrap two">
+      <div><h2 id="about-title"></h2><div id="about-text"></div></div>
+      <div id="stats" class="stats"></div>
+    </div>
+  </section>
+
+  <section id="reviews" class="section">
+    <div class="head"><h2 id="reviews-title"></h2></div>
+    <div id="review-grid" class="review-grid"></div>
+  </section>
+
+  <section id="location" class="section alt">
+    <div class="head"><h2 id="location-title"></h2><p id="location-address"></p></div>
+    <div class="wrap"><div id="map" class="map"></div></div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="wrap narrow">
+      <h2 id="contact-title"></h2><div id="contact-info"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div id="footer-brands" class="links"></div>
+    <div id="social" class="links"></div>
+    <p id="copy"></p>
+  </footer>
+
+  <script src="js/common.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

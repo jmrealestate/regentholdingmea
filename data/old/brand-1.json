@@ -1,0 +1,53 @@
+{
+  "id": "brand-1",
+  "name": "Delite Restaurant",
+  "category": "Food And Beverage",
+  "tagline": "A short line describing Brand One",
+  "cover": "assets/images/brand-1/cover.svg",
+  "banner": "assets/images/brand-1/photo-1.svg",
+  "description": [
+    "Replace with the story of Brand One: what it does, who it serves and what makes it special.",
+    "Add a second paragraph if needed."
+  ],
+  "highlights": [
+    { "title": "Highlight one", "text": "Short description." },
+    { "title": "Highlight two", "text": "Short description." },
+    { "title": "Highlight three", "text": "Short description." }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/brand-1/photo-1.svg",
+      "caption": "Photo 1 caption"
+    },
+    {
+      "src": "assets/images/brand-1/photo-2.svg",
+      "caption": "Photo 2 caption"
+    },
+    {
+      "src": "assets/images/brand-1/photo-3.svg",
+      "caption": "Photo 3 caption"
+    },
+    {
+      "src": "assets/images/brand-1/photo-4.svg",
+      "caption": "Photo 4 caption"
+    },
+    {
+      "src": "assets/images/brand-1/photo-5.svg",
+      "caption": "Photo 5 caption"
+    },
+    { "src": "assets/images/brand-1/photo-6.svg", "caption": "Photo 6 caption" }
+  ],
+  "reviews": [
+    {
+      "name": "Customer Name",
+      "rating": 5,
+      "text": "Replace with a review for Brand One."
+    }
+  ],
+  "contact": {
+    "phone": "+000 000 000 000",
+    "address": "Brand address here",
+    "hours": "Sun - Thu: 9:00 - 18:00",
+    "website": ""
+  }
+}

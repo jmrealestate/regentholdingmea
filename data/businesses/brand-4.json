@@ -1,0 +1,59 @@
+{
+  "id": "brand-4",
+  "name": "Night In Paradise",
+  "category": "Hospitality & Private Bungalows",
+  "tagline": "Your Private Escape in Ehden",
+  "cover": "assets/images/brand-4/cover.svg",
+  "banner": "assets/images/brand-4/photo-1.svg",
+  "description": [
+    "Night In Paradise offers a peaceful, private getaway in Ehden, North Lebanon. Our two independent bungalows are designed for couples and guests looking to unwind amid panoramic mountain views, fresh air and quiet surroundings.",
+    "Each bungalow combines approximately 30 m² of interior space with around 25 m² of private outdoor space. Guests can enjoy a private jacuzzi, comfortable indoor and outdoor seating, convenient parking and an independent access road. Owned by JM Real Estate, Night In Paradise brings together privacy, relaxation and the charm of Ehden in every season."
+  ],
+  "highlights": [
+    {
+      "title": "Private Jacuzzi & Views",
+      "text": "Relax in your own jacuzzi and take in sweeping views of the surrounding landscape."
+    },
+    {
+      "title": "Two Independent Bungalows",
+      "text": "Private accommodation with indoor comfort and dedicated outdoor space."
+    },
+    {
+      "title": "Peaceful Mountain Getaway",
+      "text": "An Ehden retreat with easy access, parking and room to unwind."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/brand-4/photo-1.svg",
+      "caption": "Private bungalow getaway in Ehden"
+    },
+    {
+      "src": "assets/images/brand-4/photo-2.svg",
+      "caption": "Jacuzzi with panoramic mountain views"
+    },
+    {
+      "src": "assets/images/brand-4/photo-3.svg",
+      "caption": "Cozy interiors and thoughtful comfort"
+    },
+    {
+      "src": "assets/images/brand-4/photo-4.svg",
+      "caption": "Private outdoor seating and relaxation"
+    },
+    {
+      "src": "assets/images/brand-4/photo-5.svg",
+      "caption": "Peaceful mountain scenery"
+    },
+    {
+      "src": "assets/images/brand-4/photo-6.svg",
+      "caption": "A private stay at Night In Paradise"
+    }
+  ],
+  "reviews": [],
+  "contact": {
+    "phone": "",
+    "address": "Ehden, North Lebanon",
+    "hours": "",
+    "website": ""
+  }
+}
